@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello my name is Amirreza Saadi; I'm a computer engineering student that likes learning new things to add to my knowledge.<br>🔭I am familiar with languages such as C++, C#, Python and HTML (If you count it as one lol)<br>🪴I'm currently learning basic web development skills such as css and ASP.net core
+# 💫 Who Am I?
+👋 Hello my name is Amirreza Saadi; I'm a computer engineering student that likes learning new things to add to my knowledge.<br>🔭I am familiar with languages such as C++, C#, Python and HTML (If you count it as one lol)<br>🪴I'm currently learning basic web development skills such as CSS and ASP.net core
 
 
 ## 🌐 Socials:
