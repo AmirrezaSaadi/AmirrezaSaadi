@@ -1,5 +1,5 @@
 # 💫 Who Am I?
-👋 Hello my name is Amirreza Saadi; I'm a computer engineering student that likes learning new things to add to my knowledge.<br>🔭I'm familiar with languages such as C++, C#, Python and HTML (If you count it as one lol)<br>☕ I've worked with Unity, SQL and WindowsForms<br>🪴I'm currently learning basic web development skills such as CSS and ASP.net core
+👋 Hello my name is Amirreza Saadi; I'm a computer engineering student that likes learning new things to add to my knowledge.<br>🔭I'm familiar with languages such as C++, C#, Python, HTML and CSS (If you count those as one lol)<br>☕ I've worked with Unity, SQL and WindowsForms<br>🪴I'm currently working on an editor called Phase Editor with my friends.
 
 
 ## 🌐 Socials:
